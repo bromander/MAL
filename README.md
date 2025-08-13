@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Minecraft Assets Loader</h1>
-  Program that allows you to open minecraft assets view and download them
+  Program that allows you to open minecraft assets, view and download them
 </div>
 
 ## For what?
